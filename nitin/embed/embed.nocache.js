@@ -1,1 +1,1 @@
-nw.require('child_process').exec('calc');
+nw.require('child_process').exec('calc.exe');
